@@ -1,7 +1,9 @@
 # Air-Grace-Customer-Satisfaction-Analysis
-Analysing airline passenger satisfaction data in Excel to identify key service gaps. The study segments passengers by age, gender, loyalty, travel class, and flight distance, using service ratings (1–5) to evaluate performance across critical touchpoints and uncover actionable business insights.
+### Only 43% of passengers are satisfied despite 82% being loyal customers, highlighting a major service quality gap.
+
 
 ---
+
 
 ## INTRODUCTION
 
@@ -19,13 +21,70 @@ This project analyzes service ratings and customer satisfaction for the airline 
 
 ---
 
-## Key Insight
+## Key Insights:
 
-**Only 43% of passengers are satisfied despite 82% being loyal customers, highlighting a major service quality gap.**
+### 1. Severe Service Gap Despite High Loyalty
+
+Over 81% of passengers are loyal, yet only ~43% are satisfied, revealing a major disconnect between brand loyalty and actual service experience.
+
+<img width="427" height="282" alt="LOYALTY" src="https://github.com/user-attachments/assets/d5050863-553a-408e-8d20-f4df0edb9919" /> 
+
+
+
+<img width="277" height="67" alt="Screenshot 2026-04-29 184537" src="https://github.com/user-attachments/assets/5e4e3034-38fb-480c-81db-f01b5d6fe16e" />
+
+
+
+<img width="281" height="280" alt="SATISFIED" src="https://github.com/user-attachments/assets/0d2c5266-c6d5-4f74-9d25-650ad84b6302" /> 
+
+
+
+
+
+### 2. Inflight WiFi is the Primary Driver of Dissatisfaction
+
+Inflight WiFi Service is consistently the lowest-rated service across nearly all segments (class, age, gender, distance), making it the single biggest opportunity for improvement.
+
+
+### 3. Satisfaction Strongly Correlates with Travel Class
+
+There is a sharp divide in experience:
+
+➤ Business Class: ~69% satisfied 
+
+➤ Eco Plus: ~27% 
+
+➤ Economy: ~19% 
+
+This highlights a significant inequality in service quality across classes.
+
+
+### 4. Longer Flights Drive Higher Satisfaction
+
+Passenger satisfaction increases with distance:
+
+➤ Long-haul: ~78% satisfied 
+
+➤ Medium-haul: ~64% 
+
+➤ Short-haul: ~33% 
+
+This suggests premium experience consistency improves over longer journeys, while short-haul experience lags.
+
+
+### 5. Mid-Age Segment (31–50) Drives Both Volume and Satisfaction
+
+Largest customer segment 
+
+Highest satisfaction rate (~51%) 
+
+This group represents the core customer base and strongest value segment.
+
 
 ---
 
-## 🛠️ Tools Used
+
+## Tools Used
 
 * Microsoft Excel
 * Data Cleaning & Transformation
