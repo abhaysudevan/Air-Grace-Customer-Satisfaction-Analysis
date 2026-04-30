@@ -1,9 +1,9 @@
 # Air-Grace-Customer-Satisfaction-Analysis
-### Only 43% of passengers are satisfied despite 82% being loyal customers, highlighting a major service quality gap.
 
+<img width="1892" height="802" alt="DASHBOARD-GIF" src="https://github.com/user-attachments/assets/e5798ab2-a475-4615-901a-53914094a738" />
 
+### Highlight: Only 43% of passengers are satisfied despite 82% being loyal customers, highlighting a major service quality gap.
 ---
-
 
 ## INTRODUCTION
 
@@ -21,38 +21,34 @@ This project analyzes service ratings and customer satisfaction for the airline 
 
 ---
 
-## Key Insights:
+## KEY INSIGHTS
 
 ### 1. Severe Service Gap Despite High Loyalty
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d566b997-09ca-43cb-8f14-056350ef8fbc" width="600">
+</p>
+
+
+
 Over 81% of passengers are loyal, yet only ~43% are satisfied, revealing a major disconnect between brand loyalty and actual service experience.
 
-<img width="427" height="282" alt="LOYALTY" src="https://github.com/user-attachments/assets/d5050863-553a-408e-8d20-f4df0edb9919" /> 
-
-
-
-<img width="277" height="67" alt="Screenshot 2026-04-29 184537" src="https://github.com/user-attachments/assets/5e4e3034-38fb-480c-81db-f01b5d6fe16e" />
-
-
-
-<img width="281" height="280" alt="SATISFIED" src="https://github.com/user-attachments/assets/0d2c5266-c6d5-4f74-9d25-650ad84b6302" /> 
-
-
-
-
-
 ### 2. Inflight WiFi is the Primary Driver of Dissatisfaction
+
+<img width="819" height="783" alt="SERVICE-RATING" src="https://github.com/user-attachments/assets/ec3b422c-15b7-4b12-919f-fd67955c3feb" />
 
 Inflight WiFi Service is consistently the lowest-rated service across nearly all segments (class, age, gender, distance), making it the single biggest opportunity for improvement.
 
 
 ### 3. Satisfaction Strongly Correlates with Travel Class
 
+<img width="1179" height="781" alt="CLASS" src="https://github.com/user-attachments/assets/f19b1b18-7bb2-45ea-bd4d-f763ba378a0d" />
+
 There is a sharp divide in experience:
 
 ➤ Business Class: ~69% satisfied 
 
-➤ Eco Plus: ~27% 
+➤ Eco Plus: ~25% 
 
 ➤ Economy: ~19% 
 
