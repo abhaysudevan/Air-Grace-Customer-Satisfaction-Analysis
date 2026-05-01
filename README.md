@@ -5,11 +5,15 @@
 ### Highlight: Only 43% of passengers are satisfied despite 82% being loyal customers, highlighting a major service quality gap.
 ---
 
+<br> <br>
+
 ## INTRODUCTION
 
 This project analyzes service ratings and customer satisfaction for the airline Air Grace, providing insights into the various services offered to passengers during their journey. The data has been collected from over 100,000 passengers across different age groups, genders, customer loyalty levels, travel classes, and flight distances, who rated various services on a scale of 1 to 5 after their journey.
 
 ---
+
+<br> <br>
 
 ## OBJECTIVE
 
@@ -21,6 +25,8 @@ This project analyzes service ratings and customer satisfaction for the airline 
 
 ---
 
+<br> <br>
+
 ## KEY INSIGHTS
 
 ### 1. Severe Service Gap Despite High Loyalty
@@ -29,20 +35,31 @@ This project analyzes service ratings and customer satisfaction for the airline 
   <img src="https://github.com/user-attachments/assets/d566b997-09ca-43cb-8f14-056350ef8fbc" width="600">
 </p>
 
+Over 81% of passengers are loyal...
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/248cc678-0a5b-49c8-ab70-9e726ae35b1d" width="600">
+</p>
 
-Over 81% of passengers are loyal, yet only ~43% are satisfied, revealing a major disconnect between brand loyalty and actual service experience.
+...yet only ~43% are satisfied, revealing a major disconnect between brand loyalty and actual service experience.
+
+<br> <br>
 
 ### 2. Inflight WiFi is the Primary Driver of Dissatisfaction
 
-<img width="819" height="783" alt="SERVICE-RATING" src="https://github.com/user-attachments/assets/ec3b422c-15b7-4b12-919f-fd67955c3feb" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ec3b422c-15b7-4b12-919f-fd67955c3feb" width="600">
+</p>
 
 Inflight WiFi Service is consistently the lowest-rated service across nearly all segments (class, age, gender, distance), making it the single biggest opportunity for improvement.
 
+<br> <br>
 
 ### 3. Satisfaction Strongly Correlates with Travel Class
 
-<img width="1179" height="781" alt="CLASS" src="https://github.com/user-attachments/assets/f19b1b18-7bb2-45ea-bd4d-f763ba378a0d" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3916eee8-9c35-444d-b1f0-4a81b73c306b" width="600">
+</p>
 
 There is a sharp divide in experience:
 
@@ -54,8 +71,13 @@ There is a sharp divide in experience:
 
 This highlights a significant inequality in service quality across classes.
 
+<br> <br>
 
 ### 4. Longer Flights Drive Higher Satisfaction
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5286da8b-6868-4802-b4ad-172f5190085c" width="600">
+</p>
 
 Passenger satisfaction increases with distance:
 
@@ -67,79 +89,67 @@ Passenger satisfaction increases with distance:
 
 This suggests premium experience consistency improves over longer journeys, while short-haul experience lags.
 
+<br> <br>
 
 ### 5. Mid-Age Segment (31–50) Drives Both Volume and Satisfaction
 
-Largest customer segment 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/77229374-5816-4468-a46c-2d938aa76491" width="600">
+</p>
+
+Largest customer segment
 
 Highest satisfaction rate (~51%) 
 
 This group represents the core customer base and strongest value segment.
 
+---
+
+<br> <br>
+
+## BUSINESS IMPROVEMENT RECOMMENDATIONS
+
+### ➤ Loyal customers are at risk
+
+Over 52% of loyal customers are dissatisfied, signalling a high retention risk. Immediate focus should be on improving key digital and onboard services such as Inflight WiFi, Online Booking, Online Boarding, and Inflight Entertainment.
+
+<br> <br>
+
+### ➤ Digital experience is outdated
+
+Low ratings for Ease of Online Booking, even among 18–30 year olds, indicate outdated platforms. Upgrading the website and app to deliver a simple, intuitive, and modern booking experience contributes towards travel excitement for the customers.
+
+<br> <br>
+
+### ➤ Airport experience impacts satisfaction
+
+Low ratings for Gate Location suggest issues with accessibility and passenger convenience. Improving gate allocation strategy and overall gate experience can significantly enhance satisfaction.
+
+<br> <br>
+
+### ➤ Premium customers expect premium tech
+
+Business Class passengers are dissatisfied with onboard technology, particularly WiFi and Entertainment. As high-value customers, their expectations for reliability and modernity must be met to protect brand perception.
+
+<br> <br>
+
+### ➤ Economy segment is a major risk area
+
+With over 80% of Economy passengers dissatisfied, there is a serious threat to the airline’s largest customer base. Addressing core pain points: WiFi, Booking, Boarding, Entertainment, and Gate Experience is essential.
+
+---
+<br> <br>
+
+  ## TOOLS USED
+
+➤ Microsoft Excel
+
+➤ Data Cleaning & Transformation
+
+➤ Data Visualization (Dashboard Design)
 
 ---
 
+## CONCLUSION
 
-## Tools Used
-
-* Microsoft Excel
-* Data Cleaning & Transformation
-* Data Visualization (Dashboard Design)
-
----
-
-## 📊 Dashboard
-
-![Dashboard](dashboard-image.png)
-
----
-
-## 🔍 Key Findings
-
-### 1. Service Performance
-
-* Highest rated: Online Boarding, Seat Comfort
-* Lowest rated: Ease of Online Booking
-
----
-
-### 2. Customer Segmentation
-
-* Business Class: Highest satisfaction (~75%)
-* Economy Class: Lowest satisfaction (~20%)
-
----
-
-### 3. Loyalty Gap
-
-* 82% customers are loyal
-* Only 48% of loyal customers are satisfied
-
----
-
-### 4. Flight Distance Impact
-
-* Long haul: Highest satisfaction (~78%)
-* Short haul: Lowest satisfaction (~36%)
-
----
-
-### 5. Age Group Trends
-
-* 31–50 age group: Highest satisfaction (~57%)
-* Younger passengers show lower satisfaction
-
----
-
-## 💡 Recommendations
-
-* Improve online booking experience to reduce friction
-* Invest in onboard technology (WiFi, entertainment)
-* Focus on improving Economy Class experience
-* Address dissatisfaction in short-haul journeys
-
----
-
-## 📌 Conclusion
-
-This analysis highlights a critical gap between customer loyalty and satisfaction. Addressing key service issues, especially for high-volume segments like Economy Class, can significantly improve overall customer experience and retention.
+Air Grace must focus on closing the gap in satisfaction amongst different passenger groups such as Business/Economy and Short Haul/Long Haul travellers. 
