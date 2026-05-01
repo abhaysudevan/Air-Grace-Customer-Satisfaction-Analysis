@@ -109,6 +109,8 @@ This group represents the core customer base and strongest value segment.
 
 ## BUSINESS IMPROVEMENT RECOMMENDATIONS
 
+<br> <br>
+
 ### ➤ Loyal customers are at risk
 
 Over 52% of loyal customers are dissatisfied, signalling a high retention risk. Immediate focus should be on improving key digital and onboard services such as Inflight WiFi, Online Booking, Online Boarding, and Inflight Entertainment.
@@ -139,6 +141,12 @@ With over 80% of Economy passengers dissatisfied, there is a serious threat to t
 
 ---
 <br> <br>
+## CONCLUSION
+
+Air Grace must prioritise reducing dissatisfaction among both high-value segments (Loyal Customers, Business travellers) and high-volume groups (Economy passengers, mid-aged customers). Closing the satisfaction gap across segments, particularly between Economy and Business classes and Short-Haul and Long-Haul travellers, through targeted improvements in underperforming services will be critical to driving overall performance.
+
+---
+<br> <br>
 
   ## TOOLS USED
 
@@ -148,8 +156,4 @@ With over 80% of Economy passengers dissatisfied, there is a serious threat to t
 
 ➤ Data Visualization (Dashboard Design)
 
----
 
-## CONCLUSION
-
-Air Grace must focus on closing the gap in satisfaction amongst different passenger groups such as Business/Economy and Short Haul/Long Haul travellers. 
