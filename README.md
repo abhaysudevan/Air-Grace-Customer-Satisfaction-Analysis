@@ -156,4 +156,11 @@ Air Grace must prioritise reducing dissatisfaction among both high-value segment
 
 ➤ Data Visualization (Dashboard Design)
 
+---
+<br> <br>
+
+## METHODOLOGY
+
+
+
 
