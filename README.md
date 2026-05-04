@@ -11,6 +11,8 @@
 
 This project analyzes service ratings and customer satisfaction for the airline Air Grace, providing insights into the various services offered to passengers during their journey. The data has been collected from over 100,000 passengers across different age groups, genders, customer loyalty levels, travel classes, and flight distances, who rated various services on a scale of 1 to 5 after their journey.
 
+__Note: The dataset used for this analysis was sourced from Kaggle.com. "Air Grace" is a fictional name and is used solely for presentation purposes.__
+
 ---
 
 <br> <br>
@@ -160,6 +162,101 @@ Air Grace must prioritise reducing dissatisfaction among both high-value segment
 <br> <br>
 
 ## METHODOLOGY
+
+### 1. Data Preparation : Cleaned and structured the dataset of 103,904 passenger records
+
+<br> 
+
+### 2. Feature Engineering
+
+➤ Created derived fields including:
+
+ <p align = "center"> AGE GROUPS (0–17, 18–30, 31–50, 51–70, Above 70) </p> 
+
+  <p align = "center">
+  <img src="https://github.com/user-attachments/assets/7d2e39d3-7095-47e4-a9ac-a06e7db3d63f" height="600">
+  </p>
+
+<br>
+
+<p align = "center"> DISTANCE CATEGORIES (Short, Medium, Long Haul) </p> 
+
+ <p align = "center">
+  <img src="https://github.com/user-attachments/assets/ffb5ed8d-353e-4577-8e9e-954d295e0c32" height="600">
+  </p>
+
+<br>
+
+➤ Built calculated metrics such as:
+
+<p align = "center"> CUSTOMER COUNT </p> 
+
+  <p align = "center">
+  <img src="https://github.com/user-attachments/assets/836d3094-e830-40e9-a5ec-da59ab6781b9" width="600">
+  </p>
+
+<br>
+
+<p align = "center"> SATISFACTION RATE (%) </p> 
+
+  <p align = "center">
+  <img src="https://github.com/user-attachments/assets/51989c74-7729-4e3c-bcf6-3a0a573ec3de" width="600">
+  </p>
+
+<br>
+
+<p align = "center"> AVERAGE SERVICE RATINGS </p> 
+
+  <p align = "center">
+  <img src="https://github.com/user-attachments/assets/69409864-b4d4-4336-8286-67b873bc2b3d" width="600">
+  </p>
+
+  <br>
+
+  ### 3. Dynamic Filtering Logic: Implemented interactive filters using Data Validation dropdowns
+
+   <p align = "center">
+  <img src="https://github.com/user-attachments/assets/b6b70144-56b3-4098-a5a3-83132603ce66" width="600">
+  </p>
+
+<br>
+
+### 4. Analytical Approach
+
+➤ Performed comparative analysis across key dimensions:
+
+* Customer Loyalty
+
+* Travel Class
+
+* Flight Distance
+
+* Age Group
+
+* Gender
+
+<br>
+
+➤ Identified patterns in satisfaction and service ratings to uncover:
+
+* Underperforming services
+
+* High-risk customer segments
+
+* Opportunities for business improvement
+<br> <br>
+---
+
+
+
+
+
+
+
+
+
+
+
 
 
 
