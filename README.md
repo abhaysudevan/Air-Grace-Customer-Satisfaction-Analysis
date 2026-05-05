@@ -34,7 +34,7 @@ __Note: The dataset used for this analysis was sourced from Kaggle.com. "Air Gra
 ### 1. Severe Service Gap Despite High Loyalty
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d566b997-09ca-43cb-8f14-056350ef8fbc" width="600">
+  <img src="https://github.com/user-attachments/assets/737499fa-6d43-44ec-8705-ff8ee6a1d706" width="600">
 </p>
 
 Over 81% of passengers are loyal...
@@ -57,10 +57,10 @@ Inflight WiFi Service is consistently the lowest-rated service across nearly all
 
 <br> <br>
 
-### 3. Satisfaction Strongly Correlates with Travel Class
+### 3. Major Satisfaction Difference Amongst Travel Classes. 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3916eee8-9c35-444d-b1f0-4a81b73c306b" width="600">
+  <img src="https://github.com/user-attachments/assets/edb39165-b400-4235-9166-94f3ffb46c2e" width="600">
 </p>
 
 There is a sharp divide in experience:
@@ -78,7 +78,7 @@ This highlights a significant inequality in service quality across classes.
 ### 4. Longer Flights Drive Higher Satisfaction
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5286da8b-6868-4802-b4ad-172f5190085c" width="600">
+  <img src="https://github.com/user-attachments/assets/7d2468cb-788d-4671-9a7e-9214e5cec8e0" width="600">
 </p>
 
 Passenger satisfaction increases with distance:
@@ -96,7 +96,7 @@ This suggests premium experience consistency improves over longer journeys, whil
 ### 5. Mid-Age Segment (31–50) Drives Both Volume and Satisfaction
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/77229374-5816-4468-a46c-2d938aa76491" width="600">
+  <img src="https://github.com/user-attachments/assets/4b08ba92-9060-4271-9212-38b76777f4e7" width="600">
 </p>
 
 Largest customer segment
@@ -216,7 +216,7 @@ Air Grace must prioritise reducing dissatisfaction among both high-value segment
   ### 3. Dynamic Filtering Logic: Implemented interactive filters using Data Validation dropdowns
 
    <p align = "center">
-  <img src="https://github.com/user-attachments/assets/b6b70144-56b3-4098-a5a3-83132603ce66" width="600">
+  <img src="https://github.com/user-attachments/assets/15d2ddc7-5adb-4014-ad61-7b86926dfaae" width="600">
   </p>
 
 <br>
