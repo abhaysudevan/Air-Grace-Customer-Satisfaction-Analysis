@@ -216,7 +216,7 @@ Air Grace must prioritise reducing dissatisfaction among both high-value segment
   ### 3. Dynamic Filtering Logic: Implemented interactive filters using Data Validation dropdowns
 
    <p align = "center">
-  <img src="https://github.com/user-attachments/assets/15d2ddc7-5adb-4014-ad61-7b86926dfaae" width="600">
+  <img src="https://github.com/user-attachments/assets/a8eef05c-53ab-46f1-8119-4afb6956d8bc" width="600">
   </p>
 
 <br>
